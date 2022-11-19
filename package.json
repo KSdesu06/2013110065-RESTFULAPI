@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "npm": "^9.1.2"
+  },
+  "name": "Kanlayanuch",
+  "description": "2013110065",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSdesu06/2013110065-RESTFULAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KSdesu06/2013110065-RESTFULAPI/issues"
+  },
+  "homepage": "https://github.com/KSdesu06/2013110065-RESTFULAPI#readme"
+}
