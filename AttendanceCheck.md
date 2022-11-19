@@ -1,1 +1,1 @@
-Kanlayanuch Srichote (Kat): Chapter 0 - Course Introduction & Set up Environment
+Kanlayanuch Srichote (Kat): Chapter 2 - Basic NPM & Modern Javascript
